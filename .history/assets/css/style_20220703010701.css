@@ -115,11 +115,9 @@ a span {
 }
 p {
     margin: 0 0 15px;
-    
+    font-size
 
 }
-
-
 
 .clear {
     clear: both;
@@ -745,7 +743,7 @@ input::-ms-input-placeholder {
     max-width: 60%;
     margin: 0 auto;
     padding-bottom: 30px;
-    font-size:1.5rem;
+    font-size:1.125rem;
 
 }
 
